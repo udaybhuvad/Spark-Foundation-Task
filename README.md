@@ -1,5 +1,5 @@
 # Spark-Foundation-Task
-Contains the tasks given by The Sparks Foundation under GRIP(Graduate Rotational Internship Program ) November 2020.
+Contains the tasks given by The Sparks Foundation under GRIP(Graduate Rotational Internship Program ) December 2020.
 
 #Task 1- Prediction using Supervised ML
 
@@ -21,8 +21,5 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ As a s
 
 Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. Dataset : https://bit.ly/3kXTdox
 
-#Task 7- Stock Market Prediction using Numerical and Textual Analysis
-
-Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines Stock to analyze and predict SENSEX (S&P BSE SENSEX) Download historical stock prices from finance.yahoo.com Download textual (news) data from https://bit.ly/36fFPI6
 
 
